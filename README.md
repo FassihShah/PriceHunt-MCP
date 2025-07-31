@@ -164,7 +164,7 @@ Once configured, you can directly ask Claude things like:
 Claude will automatically use these MCP tools to scrape the websites and provide results!
 
 
-## Usage
+## 🎮 Usage
 
 ### Method 1: Claude Desktop Integration
 After setting up Claude Desktop configuration (see section above)
